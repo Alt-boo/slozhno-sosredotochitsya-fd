@@ -112,7 +112,7 @@
 }
 
 .header__theme-menu-button:focus-visible {
-  border-bottom: 1px solid var(--secondary-color);
+  border-bottom: 1px solid var(--decor-color);
   outline: none;
 }
 
@@ -236,7 +236,7 @@
   font-weight: var(--font-weight-bold);
   font-size: var(--title-font-size-mobile);
   line-height: 0.825;
-  text-shadow: 4px 4px 0 var(--accent-color);
+  text-shadow: 2px 2px 0 var(--accent-color);
 }
 
 /* Адаптив 768 */
@@ -362,9 +362,5 @@
 
   .section__title {
     max-inline-size: 315px;
-  }
-
-  .card__title {
-    height: 23px;
   }
 }
