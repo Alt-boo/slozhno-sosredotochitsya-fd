@@ -1,1 +1,1 @@
-https://github.com/Alt-boo/slozhno-sosredotochitsya-fd#
+https://github.com/Alt-boo/slozhno-sosredotochitsya-fd
