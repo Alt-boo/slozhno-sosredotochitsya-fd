@@ -353,9 +353,6 @@
     margin-top: 114px;
   }
 
-  .section:not(.section-gallery, .section-what) {
-  }
-
   .section-what .section__content {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
